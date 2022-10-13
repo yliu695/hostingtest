@@ -1,0 +1,10 @@
+.app {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px;
+  /* background-color: var(--color-neutral-2); */
+}
+
+.app .arco-menu-inner {
+  overflow-y: auto;
+}
